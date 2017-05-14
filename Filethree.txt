@@ -6,3 +6,6 @@
 
  This is new feature that is to be added in the feature branch
 
+public void add(int a, int b) {
+
+}
