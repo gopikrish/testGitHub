@@ -14,4 +14,10 @@ This is frim the main branch
 
  This is new feature that is to be added in the feature branch
 
+<<<<<<< HEAD
 
+=======
+public void add(int a, int b) {
+
+}
+>>>>>>> bb5cf529cf874025785a86142abd96eefb5a7b25
